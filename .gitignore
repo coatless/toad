@@ -1,0 +1,20 @@
+## OS Generated Files
+# Folder Info
+.DS_Store
+.DS_Store?
+Desktop.ini
+
+# Thumbnail caches
+._*
+ehthumbs.db
+Thumbs.db
+
+# Volume mounts
+.Spotlight-V100
+.Trashes
+
+## R Session information
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
