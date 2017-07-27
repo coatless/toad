@@ -35,6 +35,7 @@ cli_tools=(
 	ssh-copy-id # easily move SSH keys between machines
 	tmux        # amazing multiwindow editor
 	vim         # improved version of vim
+	mas         # Mac App Store
 )
 
 log_install "CLI Tools"
@@ -50,6 +51,7 @@ apps=(
 	caffeine
 	the-unarchiver
 	spectacle
+	omnigraffle
 	adium                   # Comms
 	slack
 	skype
