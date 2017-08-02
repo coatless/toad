@@ -67,6 +67,7 @@ apps=(
 	sublime-text
 	docker                  # Virtualization
 	virtualbox
+	parallels-desktop
 	box-sync                # Syncing
 	dropbox
 	google-backup-and-sync  # New google drive
