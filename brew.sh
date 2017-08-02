@@ -73,6 +73,7 @@ apps=(
 	google-backup-and-sync  # New google drive
 	github-desktop
 	vlc                     # Media
+	amazon-music
 	handbrake
 )
 
