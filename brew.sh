@@ -26,16 +26,18 @@ sudo chown -R "$USER":admin /usr/local
 ####### Command line specific tools
 
 cli_tools=(
-	imagemagick # allow for magick package use
-	ffmpeg      # animation bindings
-	tree        # tree structures of directories
-	armadillo   # C++ matrix library
-	eigen       # C++ matrix library
-	mlpack      # machine learning (dependency on armadillo)
-	ssh-copy-id # easily move SSH keys between machines
-	tmux        # amazing multiwindow editor
-	vim         # improved version of vim
-	mas         # Mac App Store
+	imagemagick       # allow for magick package use
+	ffmpeg            # animation bindings
+	tree              # tree structures of directories
+	armadillo         # C++ matrix library
+	eigen             # C++ matrix library
+	mlpack            # machine learning (dependency on armadillo)
+	ssh-copy-id       # easily move SSH keys between machines
+	tmux              # amazing multiwindow editor
+	vim               # improved version of vim
+	mas               # Mac App Store
+	pandoc            # Swiss army knife of document conversion
+	pandoc-citeproc   # Bibliography extension
 )
 
 log_install "CLI Tools"
