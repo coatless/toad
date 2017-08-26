@@ -38,7 +38,8 @@ cli_tools=(
 	mas               # Mac App Store
 	pandoc            # Swiss army knife of document conversion
 	pandoc-citeproc   # Bibliography extension
-	autoconf          # Configuration checks 
+	autoconf          # Configuration checks
+	automake          # Generating Makefile.in 
 )
 
 log_install "CLI Tools"
