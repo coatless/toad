@@ -93,6 +93,7 @@ fonts=(
     font-hack
     font-roboto
 	font-fontawesome
+	font-inconsolata
 )
 
 log_install "Fonts"
