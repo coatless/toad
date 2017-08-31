@@ -94,6 +94,8 @@ fonts=(
     font-roboto
 	font-fontawesome
 	font-inconsolata
+    font-source-code-pro
+    font-source-sans-pro
 )
 
 log_install "Fonts"
