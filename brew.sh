@@ -92,6 +92,7 @@ brew cask install --appdir="/Applications" ${apps[@]}
 fonts=(
     font-hack
     font-roboto
+    font-roboto-condensed  # After Effects
     font-fontawesome       # SVG Icons
     font-inconsolata
     font-source-code-pro
