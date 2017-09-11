@@ -72,6 +72,7 @@ apps=(
 	textmate                
 	iterm2
 	sublime-text
+	brackets
 	docker                  # Virtualization
 	virtualbox
 	parallels-desktop
