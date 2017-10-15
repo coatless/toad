@@ -43,6 +43,7 @@ cli_tools=(
 	automake          # Generating Makefile.in 
 	shtool            # Compile tools
 	autogen           
+	irssi             # IRC chat
 )
 
 log_install "CLI Tools"
