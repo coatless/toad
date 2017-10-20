@@ -44,10 +44,15 @@ cli_tools=(
 	shtool            # Compile tools
 	autogen           
 	irssi             # IRC chat
+	zsh               # zsh is amazing
+	zsh-completions
 )
 
 log_install "CLI Tools"
 brew install ${cli_tools[@]}
+
+####### Add Oh My Zsh
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
 ####### Applications installers via Cask
 
